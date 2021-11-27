@@ -1,0 +1,9 @@
+[package]
+name = "windtunnel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.5.0"
+type-map = "0.5.0"
+pretty-type-name = "1.0.0"
